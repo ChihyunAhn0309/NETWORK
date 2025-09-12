@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/CMakeFiles/kens_solution-populate"
+		},
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/CMakeFiles/kens_solution-populate.rule"
+		},
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/CMakeFiles/kens_solution-populate-complete.rule"
+		},
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/kens_solution-populate-prefix/src/kens_solution-populate-stamp/kens_solution-populate-build.rule"
+		},
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/kens_solution-populate-prefix/src/kens_solution-populate-stamp/kens_solution-populate-configure.rule"
+		},
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/kens_solution-populate-prefix/src/kens_solution-populate-stamp/kens_solution-populate-download.rule"
+		},
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/kens_solution-populate-prefix/src/kens_solution-populate-stamp/kens_solution-populate-install.rule"
+		},
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/kens_solution-populate-prefix/src/kens_solution-populate-stamp/kens_solution-populate-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/kens_solution-populate-prefix/src/kens_solution-populate-stamp/kens_solution-populate-patch.rule"
+		},
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/kens_solution-populate-prefix/src/kens_solution-populate-stamp/kens_solution-populate-test.rule"
+		},
+		{
+			"file" : "/workspace/build/_deps/kens_solution-subbuild/kens_solution-populate-prefix/src/kens_solution-populate-stamp/kens_solution-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kens_solution-populate"
+		],
+		"name" : "kens_solution-populate"
+	}
+}

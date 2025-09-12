@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/test-kens-bind.dir/testbind.cpp.o" -o test-kens-bind  -Wl,-rpath,/workspace/build/app/kens:/workspace/build/_deps/kens_solution-src:/workspace/build libkens.so ../../_deps/kens_solution-src/libkens_solution.so ../../lib/libgtest_main.a ../../libe.so ../../lib/libgtest.a 

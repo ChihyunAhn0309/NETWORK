@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/pwospf-all.dir/testpwospf.cpp.o" -o pwospf-all  -Wl,-rpath,/workspace/build/app/pwospf:/workspace/build libpwospf.so ../../lib/libgtest_main.a ../../libe.so ../../lib/libgtest.a 
