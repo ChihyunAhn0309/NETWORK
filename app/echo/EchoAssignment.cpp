@@ -30,6 +30,7 @@ int EchoAssignment::serverMain(const char *bind_ip, int port,
   int success;
   char buf[1024];
   char client_ipcopy[16];
+  // bind_ip is just for the listening.
   struct sockaddr_in listen_addr, client_addr;
   socklen_t sock_len = sizeof(struct sockaddr);
   memset(&listen_addr, 0, sizeof(struct sockaddr_in));
